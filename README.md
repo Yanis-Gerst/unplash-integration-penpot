@@ -1,5 +1,6 @@
-# React example plugin
+# Unplash integration for penpot
 
-This is a plugin example for penpot.
+This plugin allows you to easily integrate images from Unsplash directly into your Penpot projects. It provides quick access to high-quality, royalty-free images, saving you time by not needing to leave Penpot.
 
-For the full documentation go to: [Plugins](https://help.penpot.app/plugins/).
+
+development...
